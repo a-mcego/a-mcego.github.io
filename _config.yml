@@ -2,6 +2,9 @@
 #style: dark
 theme: jekyll-theme-hacker
 
+title: Angela's Code and Math
+description: Ideas on AI, math, programming and statistics
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
