@@ -1,6 +1,6 @@
-#layout: sidebar
-#style: dark
-theme: jekyll-theme-hacker
+layout: sidebar
+style: dark
+#theme: jekyll-theme-hacker
 
 plugins:
   - jekyll-octicons
